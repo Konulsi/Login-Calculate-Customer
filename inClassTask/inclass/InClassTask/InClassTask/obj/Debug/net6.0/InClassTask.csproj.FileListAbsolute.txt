@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\inClassTask\inclass\InClassTask\InClassTask\bin\Debug\net6.0\InClassTask.exe
+C:\Users\Admin\Desktop\inClassTask\inclass\InClassTask\InClassTask\bin\Debug\net6.0\InClassTask.deps.json
+C:\Users\Admin\Desktop\inClassTask\inclass\InClassTask\InClassTask\bin\Debug\net6.0\InClassTask.runtimeconfig.json
+C:\Users\Admin\Desktop\inClassTask\inclass\InClassTask\InClassTask\bin\Debug\net6.0\InClassTask.dll
+C:\Users\Admin\Desktop\inClassTask\inclass\InClassTask\InClassTask\bin\Debug\net6.0\InClassTask.pdb
+C:\Users\Admin\Desktop\inClassTask\inclass\InClassTask\InClassTask\obj\Debug\net6.0\InClassTask.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\inClassTask\inclass\InClassTask\InClassTask\obj\Debug\net6.0\InClassTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\inClassTask\inclass\InClassTask\InClassTask\obj\Debug\net6.0\InClassTask.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\inClassTask\inclass\InClassTask\InClassTask\obj\Debug\net6.0\InClassTask.AssemblyInfo.cs
+C:\Users\Admin\Desktop\inClassTask\inclass\InClassTask\InClassTask\obj\Debug\net6.0\InClassTask.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\inClassTask\inclass\InClassTask\InClassTask\obj\Debug\net6.0\InClassTask.dll
+C:\Users\Admin\Desktop\inClassTask\inclass\InClassTask\InClassTask\obj\Debug\net6.0\refint\InClassTask.dll
+C:\Users\Admin\Desktop\inClassTask\inclass\InClassTask\InClassTask\obj\Debug\net6.0\InClassTask.pdb
+C:\Users\Admin\Desktop\inClassTask\inclass\InClassTask\InClassTask\obj\Debug\net6.0\InClassTask.genruntimeconfig.cache
+C:\Users\Admin\Desktop\inClassTask\inclass\InClassTask\InClassTask\obj\Debug\net6.0\ref\InClassTask.dll
